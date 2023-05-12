@@ -1,9 +1,10 @@
 import React from 'react'
+import Todo from './components/Todo'
 
 const App = () => {
   return (
     <>
-      React TO-DO App
+      <Todo/>
     </>
   )
 }
